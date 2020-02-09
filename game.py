@@ -44,7 +44,7 @@ def checkIfAllPlayersAreAlive():
         return False
     return True
 
-global allPlayersAreAlive
+global allPlayersAreAlivem
 allPlayersAreAlive = True
 while allPlayersAreAlive == True:
     playerTurn()
